@@ -22,10 +22,10 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Download playlist.m3u file
-        run: curl http://m3u4u.com/m3u/v158yx57q9u6dpqpn9mw -o playlist.m3u
+        run: curl https://stream-152.zeno.fm/rb361kymjhnuv -o playlist.m3u
 
       - name: Download EPG-Guide.xml.gz file
-        run: curl http://m3u4u.com/epg/v158yx57q9u6dpqpn9mw -o EPG-Guide.xml.gz
+        run: curl https://stream-152.zeno.fm/rb361kymjhnuv -o EPG-Guide.xml.gz
         
       - name: Commit changes
         run: |
