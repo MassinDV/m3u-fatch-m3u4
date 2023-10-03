@@ -189,22 +189,8 @@ http://pfsv.io:80/7125938483/5158/132254.ts
 http://pfsv.io:80/7125938483/5158/132255.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball 1 FHD" tvg-logo="http://p6.vc/XWW" group-title="Canais | Jogos & Eventos" tvg-shift="-3",OneFootball 1 FHD
 http://pfsv.io:80/7125938483/5158/133537.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 1" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 1
-http://pfsv.io:80/7125938483/5158/161381.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 2" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 2
-http://pfsv.io:80/7125938483/5158/161380.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 3" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 3
-http://pfsv.io:80/7125938483/5158/161379.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 4" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 4
-http://pfsv.io:80/7125938483/5158/161378.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 5" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 5
-http://pfsv.io:80/7125938483/5158/161377.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 6" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 6
-http://pfsv.io:80/7125938483/5158/161376.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 7" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 7
-http://pfsv.io:80/7125938483/5158/161375.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 8" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 8
-http://pfsv.io:80/7125938483/5158/161374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 15 [Alter] FHD" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A Fazenda 15 [Alter] FHD
+http://pfsv.io:80/7125938483/5158/161818.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 2 [Alter] FHD" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A Fazenda 2 [Alter] FHD
 http://pfsv.io:80/7125938483/5158/161810.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 3 [Alter] FHD" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A Fazenda 3 [Alter] FHD
@@ -221,8 +207,6 @@ http://pfsv.io:80/7125938483/5158/161815.ts
 http://pfsv.io:80/7125938483/5158/161816.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 9 [Alter] FHD" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A Fazenda 9 [Alter] FHD
 http://pfsv.io:80/7125938483/5158/161817.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 15 [Alter] FHD" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A Fazenda 15 [Alter] FHD
-http://pfsv.io:80/7125938483/5158/161818.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1 [Alter2]" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA CAM 1 [Alter2]
 http://pfsv.io:80/7125938483/5158/161819.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2 [Alter2]" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA CAM 2 [Alter2]
@@ -235,6 +219,22 @@ http://pfsv.io:80/7125938483/5158/161822.ts
 http://pfsv.io:80/7125938483/5158/161823.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 6 [Alter2]" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA CAM 6 [Alter2]
 http://pfsv.io:80/7125938483/5158/161824.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 1" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 1
+http://pfsv.io:80/7125938483/5158/161381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 2" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 2
+http://pfsv.io:80/7125938483/5158/161380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 3" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 3
+http://pfsv.io:80/7125938483/5158/161379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 4" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 4
+http://pfsv.io:80/7125938483/5158/161378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 5" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 5
+http://pfsv.io:80/7125938483/5158/161377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 6" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 6
+http://pfsv.io:80/7125938483/5158/161376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 7" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 7
+http://pfsv.io:80/7125938483/5158/161375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 8" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 8
+http://pfsv.io:80/7125938483/5158/161374.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD
 http://pfsv.io:80/7125938483/5158/293.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [H265]
@@ -2531,7 +2531,7 @@ http://pfsv.io:80/7125938483/5158/122753.ts
 http://pfsv.io:80/7125938483/5158/69089.ts
 #EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="http://p6.vc/VGH" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM Itapetininga HD
 http://pfsv.io:80/7125938483/5158/122752.ts
-#EXTINF:-1 tvg-id="TV TEM - itapetininga" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://p6.vc/VDR" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM Itapetininga SD
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://p6.vc/VDR" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM Itapetininga SD
 http://pfsv.io:80/7125938483/5158/32434.ts
 #EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="Globo Tv TEM S. J. Do Rio Preto HD" tvg-logo="http://p6.vc/ATD" group-title="Canais | Globo" tvg-shift="-3",Globo Tv TEM S. J. Do Rio Preto HD
 http://pfsv.io:80/7125938483/5158/397.ts
