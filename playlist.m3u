@@ -713,7 +713,7 @@ http://pfsv.io:80/7125938483/5158/188.ts
 http://pfsv.io:80/7125938483/5158/203.ts
 #EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários" tvg-shift="-3",History Channel FHD
 http://pfsv.io:80/7125938483/5158/174.ts
-#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD[H265]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários" tvg-shift="-3",History Channel FHD[H265]
+#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD [H265]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários" tvg-shift="-3",History Channel FHD [H265]
 http://pfsv.io:80/7125938483/5158/30250.ts
 #EXTINF:-1 tvg-id="History.br" tvg-name="History Channel HD" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários" tvg-shift="-3",History Channel HD
 http://pfsv.io:80/7125938483/5158/189.ts
@@ -805,7 +805,7 @@ http://pfsv.io:80/7125938483/5158/593.ts
 http://pfsv.io:80/7125938483/5158/600.ts
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News [4K]" tvg-logo="http://p6.vc/VNF" group-title="Canais | 4K" tvg-shift="-3",Globo News [4K]
 http://pfsv.io:80/7125938483/5158/50864.ts
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP[4K]" tvg-logo="http://p6.vc/VDE" group-title="Canais | 4K" tvg-shift="-3",Globo SP[4K]
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP [4K]" tvg-logo="http://p6.vc/VDE" group-title="Canais | 4K" tvg-shift="-3",Globo SP [4K]
 http://pfsv.io:80/7125938483/5158/582.ts
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT [4K]" tvg-logo="http://p6.vc/VNH" group-title="Canais | 4K" tvg-shift="-3",GNT [4K]
 http://pfsv.io:80/7125938483/5158/50870.ts
@@ -2259,7 +2259,7 @@ http://pfsv.io:80/7125938483/5158/43777.ts
 http://pfsv.io:80/7125938483/5158/121121.ts
 #EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo" tvg-shift="-3",Globo RPC Cascavel HD
 http://pfsv.io:80/7125938483/5158/56133.ts
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP FHD[H265]" tvg-logo="http://p6.vc/VDL" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD[H265]
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP FHD [H265]" tvg-logo="http://p6.vc/VDL" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD [H265]
 http://pfsv.io:80/7125938483/5158/30205.ts
 #EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP HD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP HD
 http://pfsv.io:80/7125938483/5158/394.ts
@@ -2569,6 +2569,8 @@ http://pfsv.io:80/7125938483/5158/65253.ts
 http://pfsv.io:80/7125938483/5158/65252.ts
 #EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="Globo Tv Verdes Mares Fortaleza SD" tvg-logo="http://p6.vc/AVB" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Verdes Mares Fortaleza SD
 http://pfsv.io:80/7125938483/5158/461.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
+http://pfsv.io:80/7125938483/5158/168251.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Passo Fundo FHD" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo" tvg-shift="-3",Globo TV Passo Fundo FHD
 http://pfsv.io:80/7125938483/5158/132949.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD
