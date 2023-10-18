@@ -2397,13 +2397,13 @@ http://pfsv.io:80/7125938483/5158/122778.ts
 http://pfsv.io:80/7125938483/5158/43818.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Tv Liberal Belem SD" tvg-logo="http://p6.vc/AUX" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Liberal Belem SD
 http://pfsv.io:80/7125938483/5158/455.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Globo TV Minas FHD" tvg-logo="http://p6.vc/ARZ" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas FHD
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="Globo TV Minas FHD" tvg-logo="http://p6.vc/ARZ" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas FHD
 http://pfsv.io:80/7125938483/5158/362.ts
-#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="Globo TV Minas FHD[H265]" tvg-logo="http://p6.vc/VDG" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas FHD[H265]
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="Globo TV Minas FHD [H265]" tvg-logo="http://p6.vc/VDG" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas FHD [H265]
 http://pfsv.io:80/7125938483/5158/30200.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Globo TV Minas HD" tvg-logo="http://p6.vc/ASU" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas HD
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="Globo TV Minas HD" tvg-logo="http://p6.vc/ASU" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas HD
 http://pfsv.io:80/7125938483/5158/388.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Globo TV Minas SD" tvg-logo="http://p6.vc/ATZ" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas SD
+#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="Globo TV Minas SD" tvg-logo="http://p6.vc/ATZ" group-title="Canais | Globo" tvg-shift="-3",Globo TV Minas SD
 http://pfsv.io:80/7125938483/5158/423.ts
 #EXTINF:-1 tvg-id="TV Mirante" tvg-name="Globo Tv Mirante Sao Luis FHD" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Mirante Sao Luis FHD
 http://pfsv.io:80/7125938483/5158/368.ts
@@ -2569,7 +2569,7 @@ http://pfsv.io:80/7125938483/5158/65253.ts
 http://pfsv.io:80/7125938483/5158/65252.ts
 #EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="Globo Tv Verdes Mares Fortaleza SD" tvg-logo="http://p6.vc/AVB" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Verdes Mares Fortaleza SD
 http://pfsv.io:80/7125938483/5158/461.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
 http://pfsv.io:80/7125938483/5158/168251.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Passo Fundo FHD" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo" tvg-shift="-3",Globo TV Passo Fundo FHD
 http://pfsv.io:80/7125938483/5158/132949.ts
