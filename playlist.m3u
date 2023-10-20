@@ -1209,6 +1209,10 @@ http://pfsv.io:80/7125938483/5158/123515.ts
 http://pfsv.io:80/7125938483/5158/123516.ts
 #EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="Warner SD LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados" tvg-shift="-3",Warner SD LEG
 http://pfsv.io:80/7125938483/5158/123517.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD [LEG]" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados" tvg-shift="-3",Space FHD [LEG]
+http://pfsv.io:80/7125938483/5158/169116.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix FHD [LEG]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados" tvg-shift="-3",MegaPix FHD [LEG]
+http://pfsv.io:80/7125938483/5158/169117.ts
 #EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD LEG" tvg-logo="http://p6.vc/WIH" group-title="Canais | Legendados" tvg-shift="-3",FX FHD LEG
 http://pfsv.io:80/7125938483/5158/130686.ts
 #EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel FHD LEG
