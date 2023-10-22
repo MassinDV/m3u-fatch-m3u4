@@ -1703,8 +1703,10 @@ http://pfsv.io:80/7125938483/5158/131818.ts
 http://pfsv.io:80/7125938483/5158/132343.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass SD" tvg-logo="http://p6.vc/XRL" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass SD
 http://pfsv.io:80/7125938483/5158/132344.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight PASS [ALTER]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight PASS [ALTER]
-http://pfsv.io:80/7125938483/5158/133524.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 1" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass 1
+http://pfsv.io:80/7125938483/5158/170148.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 2" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass 2
+http://pfsv.io:80/7125938483/5158/170149.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD [HDR]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes" tvg-shift="-3",Band Sports FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130175.ts
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD [HDR]" tvg-logo="http://p6.vc/WJZ" group-title="Canais | Esportes" tvg-shift="-3",Combate FHD [HDR]
