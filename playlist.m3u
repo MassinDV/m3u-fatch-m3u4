@@ -1143,6 +1143,8 @@ http://pfsv.io:80/7125938483/5158/123560.ts
 http://pfsv.io:80/7125938483/5158/123492.ts
 #EXTINF:-1 tvg-id="BR - Max" tvg-name="Max SD LEG" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Max SD LEG
 http://pfsv.io:80/7125938483/5158/123493.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix FHD [LEG]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados" tvg-shift="-3",MegaPix FHD [LEG]
+http://pfsv.io:80/7125938483/5158/169117.ts
 #EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix HD LEG" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados" tvg-shift="-3",MegaPix HD LEG
 http://pfsv.io:80/7125938483/5158/123510.ts
 #EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix SD LEG" tvg-logo="http://p6.vc/WIM" group-title="Canais | Legendados" tvg-shift="-3",MegaPix SD LEG
@@ -1151,6 +1153,8 @@ http://pfsv.io:80/7125938483/5158/123511.ts
 http://pfsv.io:80/7125938483/5158/123518.ts
 #EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel SD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel SD LEG
 http://pfsv.io:80/7125938483/5158/123519.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD [LEG]" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados" tvg-shift="-3",Space FHD [LEG]
+http://pfsv.io:80/7125938483/5158/169116.ts
 #EXTINF:-1 tvg-id="BR - Space" tvg-name="Space HD LEG" tvg-logo="http://p6.vc/WIN" group-title="Canais | Legendados" tvg-shift="-3",Space HD LEG
 http://pfsv.io:80/7125938483/5158/123512.ts
 #EXTINF:-1 tvg-id="BR - Space" tvg-name="Space SD LEG" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados" tvg-shift="-3",Space SD LEG
@@ -1209,10 +1213,6 @@ http://pfsv.io:80/7125938483/5158/123515.ts
 http://pfsv.io:80/7125938483/5158/123516.ts
 #EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="Warner SD LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados" tvg-shift="-3",Warner SD LEG
 http://pfsv.io:80/7125938483/5158/123517.ts
-#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD [LEG]" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados" tvg-shift="-3",Space FHD [LEG]
-http://pfsv.io:80/7125938483/5158/169116.ts
-#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix FHD [LEG]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados" tvg-shift="-3",MegaPix FHD [LEG]
-http://pfsv.io:80/7125938483/5158/169117.ts
 #EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD LEG" tvg-logo="http://p6.vc/WIH" group-title="Canais | Legendados" tvg-shift="-3",FX FHD LEG
 http://pfsv.io:80/7125938483/5158/130686.ts
 #EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel FHD LEG
@@ -1697,16 +1697,14 @@ http://pfsv.io:80/7125938483/5158/108399.ts
 http://pfsv.io:80/7125938483/5158/108400.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 5 Brasil HD" tvg-logo="http://p6.vc/WKM" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 5 Brasil HD
 http://pfsv.io:80/7125938483/5158/108401.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight PASS" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight PASS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass [BR]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass [BR]
 http://pfsv.io:80/7125938483/5158/131818.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 2 [BR]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass 2 [BR]
+http://pfsv.io:80/7125938483/5158/170149.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass HD" tvg-logo="http://p6.vc/XRK" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass HD
 http://pfsv.io:80/7125938483/5158/132343.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass SD" tvg-logo="http://p6.vc/XRL" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass SD
 http://pfsv.io:80/7125938483/5158/132344.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 1" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass 1
-http://pfsv.io:80/7125938483/5158/170148.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 2" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass 2
-http://pfsv.io:80/7125938483/5158/170149.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD [HDR]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes" tvg-shift="-3",Band Sports FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130175.ts
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD [HDR]" tvg-logo="http://p6.vc/WJZ" group-title="Canais | Esportes" tvg-shift="-3",Combate FHD [HDR]
@@ -2237,6 +2235,8 @@ http://pfsv.io:80/7125938483/5158/43777.ts
 http://pfsv.io:80/7125938483/5158/121121.ts
 #EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo" tvg-shift="-3",Globo RPC Cascavel HD
 http://pfsv.io:80/7125938483/5158/56133.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
+http://pfsv.io:80/7125938483/5158/168251.ts
 #EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP FHD [H265]" tvg-logo="http://p6.vc/VDL" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD [H265]
 http://pfsv.io:80/7125938483/5158/30205.ts
 #EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP HD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP HD
@@ -2547,8 +2547,6 @@ http://pfsv.io:80/7125938483/5158/65253.ts
 http://pfsv.io:80/7125938483/5158/65252.ts
 #EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="Globo Tv Verdes Mares Fortaleza SD" tvg-logo="http://p6.vc/AVB" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Verdes Mares Fortaleza SD
 http://pfsv.io:80/7125938483/5158/461.ts
-#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
-http://pfsv.io:80/7125938483/5158/168251.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Passo Fundo FHD" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo" tvg-shift="-3",Globo TV Passo Fundo FHD
 http://pfsv.io:80/7125938483/5158/132949.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD
