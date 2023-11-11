@@ -1509,6 +1509,8 @@ http://pfsv.io:80/7125938483/5158/72.ts
 http://pfsv.io:80/7125938483/5158/1066.ts
 #EXTINF:-1 tvg-id="BR - Univesp TV" tvg-name="TV Univesp SD" tvg-logo="http://p6.vc/BQN" group-title="Canais | Abertos" tvg-shift="-3",TV Univesp SD
 http://pfsv.io:80/7125938483/5158/1067.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP SD" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos" tvg-shift="-3",SBT SP SD
+http://pfsv.io:80/7125938483/5158/174142.ts
 #EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos" tvg-shift="-3",SBT TV Jangadeiro FHD
 http://pfsv.io:80/7125938483/5158/134101.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Internacional" tvg-logo="http://p6.vc/AXD" group-title="Canais | Notícias" tvg-shift="-3",Band Internacional
@@ -2149,7 +2151,7 @@ http://pfsv.io:80/7125938483/5158/121124.ts
 http://pfsv.io:80/7125938483/5158/65249.ts
 #EXTINF:-1 tvg-id="intertvmg" tvg-name="Globo Integracao MG HD" tvg-logo="http://p6.vc/VFH" group-title="Canais | Globo" tvg-shift="-3",Globo Integracao MG HD
 http://pfsv.io:80/7125938483/5158/65248.ts
-#EXTINF:-1 tvg-id="BR - InterTV Grande Minas HD" tvg-name="Globo Inter Grande Minas HD" tvg-logo="http://p6.vc/ATO" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Grande Minas HD
+#EXTINF:-1 tvg-id="BR - InterTV Grande Minas HD" tvg-name="Globo Inter Tv Grande Minas HD" tvg-logo="http://p6.vc/ATO" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas HD
 http://pfsv.io:80/7125938483/5158/409.ts
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo INTER TV Alto Litoral FHD" tvg-logo="http://p6.vc/VEL" group-title="Canais | Globo" tvg-shift="-3",Globo INTER TV Alto Litoral FHD
 http://pfsv.io:80/7125938483/5158/43844.ts
@@ -2163,7 +2165,7 @@ http://pfsv.io:80/7125938483/5158/373.ts
 http://pfsv.io:80/7125938483/5158/408.ts
 #EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Globo Inter Tv Dos Vales SD" tvg-logo="http://p6.vc/AUP" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Dos Vales SD
 http://pfsv.io:80/7125938483/5158/444.ts
-#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://p6.vc/VCN" group-title="Canais | Globo" tvg-shift="-3",Globo Inter TV Grande Minas FHD
+#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter Tv Grande Minas FHD" tvg-logo="http://p6.vc/VCN" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas FHD
 http://pfsv.io:80/7125938483/5158/374.ts
 #EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter Tv Grande Minas SD" tvg-logo="http://p6.vc/AUQ" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas SD
 http://pfsv.io:80/7125938483/5158/445.ts
