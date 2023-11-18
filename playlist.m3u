@@ -1511,6 +1511,8 @@ http://pfsv.io:80/7125938483/5158/1066.ts
 http://pfsv.io:80/7125938483/5158/1067.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP SD" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos" tvg-shift="-3",SBT SP SD
 http://pfsv.io:80/7125938483/5158/174142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RecordTV Cabralia Bahia HD" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos" tvg-shift="-3",RecordTV Cabralia Bahia HD
+http://pfsv.io:80/7125938483/5158/175466.ts
 #EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos" tvg-shift="-3",SBT TV Jangadeiro FHD
 http://pfsv.io:80/7125938483/5158/134101.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Internacional" tvg-logo="http://p6.vc/AXD" group-title="Canais | Notícias" tvg-shift="-3",Band Internacional
