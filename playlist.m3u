@@ -105,8 +105,6 @@ http://pfsv.io:80/7125938483/5158/132271.ts
 http://pfsv.io:80/7125938483/5158/132270.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 4 SD
 http://pfsv.io:80/7125938483/5158/132269.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olympics Channel TV" tvg-logo="http://p6.vc/WMD" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Olympics Channel TV
-http://pfsv.io:80/7125938483/5158/130687.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball 1 HD" tvg-logo="http://p6.vc/XWV" group-title="Canais | Jogos & Eventos" tvg-shift="-3",OneFootball 1 HD
 http://pfsv.io:80/7125938483/5158/133536.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball 1 SD" tvg-logo="http://p6.vc/XWU" group-title="Canais | Jogos & Eventos" tvg-shift="-3",OneFootball 1 SD
@@ -559,8 +557,6 @@ http://pfsv.io:80/7125938483/5158/58245.ts
 http://pfsv.io:80/7125938483/5158/58247.ts
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading SD" tvg-logo="http://p6.vc/VNP" group-title="Canais | Variedades" tvg-shift="-3",Loading SD
 http://pfsv.io:80/7125938483/5158/58246.ts
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="MasterChef HD" tvg-logo="http://p6.vc/VMJ" group-title="Canais | Variedades" tvg-shift="-3",MasterChef HD
-http://pfsv.io:80/7125938483/5158/32543.ts
 #EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD" tvg-logo="http://p6.vc/VMT" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD
 http://pfsv.io:80/7125938483/5158/103.ts
 #EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD[H265]" tvg-logo="http://p6.vc/VMZ" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD[H265]
@@ -835,8 +831,6 @@ http://pfsv.io:80/7125938483/5158/601.ts
 http://pfsv.io:80/7125938483/5158/65247.ts
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [4K]" tvg-logo="http://p6.vc/VMM" group-title="Canais | 4K" tvg-shift="-3",VIVA [4K]
 http://pfsv.io:80/7125938483/5158/50867.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Bloomberg TV 4K" tvg-logo="" group-title="Canais | 4K" tvg-shift="-3",[IT] Bloomberg TV 4K
-http://pfsv.io:80/7125938483/5158/116360.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi 4K" tvg-logo="" group-title="Canais | 4K" tvg-shift="-3",Digi 4K
 http://pfsv.io:80/7125938483/5158/130232.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV
@@ -1701,8 +1695,6 @@ http://pfsv.io:80/7125938483/5158/264.ts
 http://pfsv.io:80/7125938483/5158/273.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3 Brasil HD" tvg-logo="http://p6.vc/WKK" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 3 Brasil HD
 http://pfsv.io:80/7125938483/5158/108399.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 4 Brasil HD" tvg-logo="http://p6.vc/WKL" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 4 Brasil HD
-http://pfsv.io:80/7125938483/5158/108400.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 5 Brasil HD" tvg-logo="http://p6.vc/WKM" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 5 Brasil HD
 http://pfsv.io:80/7125938483/5158/108401.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass [BR]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass [BR]
@@ -1863,8 +1855,6 @@ http://pfsv.io:80/7125938483/5158/5342.ts
 http://pfsv.io:80/7125938483/5158/69080.ts
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="TV Rede Gospel" tvg-logo="http://p6.vc/VPX" group-title="Canais | Religiosos" tvg-shift="-3",TV Rede Gospel
 http://pfsv.io:80/7125938483/5158/53333.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Terceiro Anjo HD" tvg-logo="" group-title="Canais | Religiosos" tvg-shift="-3",TV Terceiro Anjo HD
-http://pfsv.io:80/7125938483/5158/127314.ts
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="TV Universal (IURD)" tvg-logo="http://p6.vc/VPW" group-title="Canais | Religiosos" tvg-shift="-3",TV Universal (IURD)
 http://pfsv.io:80/7125938483/5158/53286.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Vianney HD" tvg-logo="http://p6.vc/VQB" group-title="Canais | Religiosos" tvg-shift="-3",Tv Vianney HD
@@ -1935,8 +1925,6 @@ http://pfsv.io:80/7125938483/5158/122798.ts
 http://pfsv.io:80/7125938483/5158/116441.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 4 HD" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 4 HD
 http://pfsv.io:80/7125938483/5158/116443.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 5 FHD[H265]" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 5 FHD[H265]
-http://pfsv.io:80/7125938483/5158/116444.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 7 HD" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 7 HD
 http://pfsv.io:80/7125938483/5158/116451.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 8 FHD[H265]" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 8 FHD[H265]
@@ -1961,8 +1949,6 @@ http://pfsv.io:80/7125938483/5158/122805.ts
 http://pfsv.io:80/7125938483/5158/122806.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Comet" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Comet
 http://pfsv.io:80/7125938483/5158/122808.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ConTV Anime" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] ConTV Anime
-http://pfsv.io:80/7125938483/5158/122809.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Empire Cinema sci-fi" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Empire Cinema sci-fi
 http://pfsv.io:80/7125938483/5158/122810.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Epix" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Epix
@@ -2691,8 +2677,6 @@ http://pfsv.io:80/7125938483/5158/119642.ts
 http://pfsv.io:80/7125938483/5158/119639.ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="[PT] SporTV NBA FHD" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[PT] SporTV NBA FHD
 http://pfsv.io:80/7125938483/5158/119640.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[TH] True Vision NBA" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[TH] True Vision NBA
-http://pfsv.io:80/7125938483/5158/119644.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] NBA League Pass" tvg-logo="http://p6.vc/ZJA" group-title="Canais | NBA" tvg-shift="-3",[US] NBA League Pass
 http://pfsv.io:80/7125938483/5158/130926.ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="[US] NBA TV FHD" tvg-logo="http://p6.vc/VPG" group-title="Canais | NBA" tvg-shift="-3",[US] NBA TV FHD
@@ -3019,8 +3003,6 @@ http://pfsv.io:80/7125938483/5158/97958.ts
 http://pfsv.io:80/7125938483/5158/97940.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV2 Bornholm" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV2 Bornholm
 http://pfsv.io:80/7125938483/5158/97950.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV2000" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV2000
-http://pfsv.io:80/7125938483/5158/97977.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TVRS" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TVRS
 http://pfsv.io:80/7125938483/5158/97946.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Vera TV Marche" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Vera TV Marche
@@ -3029,8 +3011,6 @@ http://pfsv.io:80/7125938483/5158/97969.ts
 http://pfsv.io:80/7125938483/5158/97928.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Videolina" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Videolina
 http://pfsv.io:80/7125938483/5158/97926.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Videolina (Sardegna)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Videolina (Sardegna)
-http://pfsv.io:80/7125938483/5158/97961.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[JP] NHK World Japan live" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[JP] NHK World Japan live
 http://pfsv.io:80/7125938483/5158/97979.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] ON FM Portugal" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[PT] ON FM Portugal
@@ -3099,8 +3079,6 @@ http://pfsv.io:80/7125938483/5158/97843.ts
 http://pfsv.io:80/7125938483/5158/97865.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG]  TNT Sports HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG]  TNT Sports HD
 http://pfsv.io:80/7125938483/5158/108402.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG] FOX SPORTS 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG] FOX SPORTS 2 HD
-http://pfsv.io:80/7125938483/5158/108411.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG] FOX SPORTS 3 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG] FOX SPORTS 3 HD
 http://pfsv.io:80/7125938483/5158/108412.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG] FOX SPORTS HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG] FOX SPORTS HD
@@ -3131,12 +3109,8 @@ http://pfsv.io:80/7125938483/5158/108368.ts
 http://pfsv.io:80/7125938483/5158/108396.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] EUROSPORT 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ES] EUROSPORT 2 HD
 http://pfsv.io:80/7125938483/5158/108397.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] FOX SPORTS 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ES] FOX SPORTS 2 HD
-http://pfsv.io:80/7125938483/5158/108408.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] FOX SPORTS 3 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ES] FOX SPORTS 3 HD
 http://pfsv.io:80/7125938483/5158/108409.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] La liga FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ES] La liga FHD
-http://pfsv.io:80/7125938483/5158/108424.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 1
 http://pfsv.io:80/7125938483/5158/130928.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 2
@@ -3161,8 +3135,6 @@ http://pfsv.io:80/7125938483/5158/130936.ts
 http://pfsv.io:80/7125938483/5158/130938.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport
 http://pfsv.io:80/7125938483/5158/130939.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 1
-http://pfsv.io:80/7125938483/5158/130940.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 3
 http://pfsv.io:80/7125938483/5158/130941.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 5
@@ -3199,18 +3171,12 @@ http://pfsv.io:80/7125938483/5158/130979.ts
 http://pfsv.io:80/7125938483/5158/130980.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 3
 http://pfsv.io:80/7125938483/5158/130981.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 4
-http://pfsv.io:80/7125938483/5158/130982.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 5
 http://pfsv.io:80/7125938483/5158/130983.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 6
 http://pfsv.io:80/7125938483/5158/130984.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 7
 http://pfsv.io:80/7125938483/5158/130985.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 8" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 8
-http://pfsv.io:80/7125938483/5158/130986.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 9
-http://pfsv.io:80/7125938483/5158/130987.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 1
 http://pfsv.io:80/7125938483/5158/130988.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 2
@@ -3285,8 +3251,6 @@ http://pfsv.io:80/7125938483/5158/130964.ts
 http://pfsv.io:80/7125938483/5158/130965.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 1
 http://pfsv.io:80/7125938483/5158/130966.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 2
-http://pfsv.io:80/7125938483/5158/130967.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 3
 http://pfsv.io:80/7125938483/5158/130968.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 1
@@ -3299,8 +3263,6 @@ http://pfsv.io:80/7125938483/5158/130971.ts
 http://pfsv.io:80/7125938483/5158/130972.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports News
 http://pfsv.io:80/7125938483/5158/130973.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 1
-http://pfsv.io:80/7125938483/5158/130974.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 2
 http://pfsv.io:80/7125938483/5158/130975.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 3
@@ -3311,8 +3273,6 @@ http://pfsv.io:80/7125938483/5158/130977.ts
 http://pfsv.io:80/7125938483/5158/130978.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] NFL RedZone" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] NFL RedZone
 http://pfsv.io:80/7125938483/5158/131008.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Action" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Action
-http://pfsv.io:80/7125938483/5158/130999.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Arena" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Arena
 http://pfsv.io:80/7125938483/5158/131000.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Cricket" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Cricket
@@ -3329,12 +3289,8 @@ http://pfsv.io:80/7125938483/5158/131005.ts
 http://pfsv.io:80/7125938483/5158/131006.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports News
 http://pfsv.io:80/7125938483/5158/131007.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Premier League" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Premier League
-http://pfsv.io:80/7125938483/5158/131009.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Racing" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Racing
 http://pfsv.io:80/7125938483/5158/131010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Alternate
-http://pfsv.io:80/7125938483/5158/131015.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Plus
 http://pfsv.io:80/7125938483/5158/131016.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Detroit" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Detroit
@@ -3497,8 +3453,6 @@ http://pfsv.io:80/7125938483/5158/33395.ts
 http://pfsv.io:80/7125938483/5158/53326.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Yellowstone National Park - Geyser" tvg-logo="http://p6.vc/VIJ" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Yellowstone National Park - Geyser
 http://pfsv.io:80/7125938483/5158/53324.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[LA] Universal Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[LA] Universal Reality
-http://pfsv.io:80/7125938483/5158/131045.ts
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="[PT] TVI Reality HD" tvg-logo="http://p6.vc/BPU" group-title="Canais | Reality Shows" tvg-shift="-3",[PT] TVI Reality HD
 http://pfsv.io:80/7125938483/5158/1047.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] PINK Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[RS] PINK Reality
