@@ -133,7 +133,7 @@ http://pfsv.io:80/7125938483/5158/50873.ts
 http://pfsv.io:80/7125938483/5158/33403.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Italia HD" tvg-logo="http://p6.vc/VLF" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Sport Italia HD
 http://pfsv.io:80/7125938483/5158/93624.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1" tvg-logo="http://p6.vc/VLC" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1 [ALTER2]" tvg-logo="http://p6.vc/VLC" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1 [ALTER2]
 http://pfsv.io:80/7125938483/5158/92364.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1 [Alter]" tvg-logo="http://p6.vc/VLD" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1 [Alter]
 http://pfsv.io:80/7125938483/5158/92365.ts
@@ -159,6 +159,22 @@ http://pfsv.io:80/7125938483/5158/69077.ts
 http://pfsv.io:80/7125938483/5158/69078.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATCH ESPN" tvg-logo="http://p6.vc/ZNK" group-title="Canais | Jogos & Eventos" tvg-shift="-3",WATCH ESPN
 http://pfsv.io:80/7125938483/5158/33376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 1 HD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 1 HD
+http://pfsv.io:80/7125938483/5158/183000.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 2 HD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 2 HD
+http://pfsv.io:80/7125938483/5158/183001.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 3 HD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 3 HD
+http://pfsv.io:80/7125938483/5158/183002.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 4 HD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 4 HD
+http://pfsv.io:80/7125938483/5158/183003.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 1 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 1 SD
+http://pfsv.io:80/7125938483/5158/183004.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 2 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 2 SD
+http://pfsv.io:80/7125938483/5158/183005.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 3 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 3 SD
+http://pfsv.io:80/7125938483/5158/183006.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 4 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 4 SD
+http://pfsv.io:80/7125938483/5158/183007.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao SD
 http://pfsv.io:80/7125938483/5158/55346.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHD
@@ -831,8 +847,6 @@ http://pfsv.io:80/7125938483/5158/601.ts
 http://pfsv.io:80/7125938483/5158/65247.ts
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [4K]" tvg-logo="http://p6.vc/VMM" group-title="Canais | 4K" tvg-shift="-3",VIVA [4K]
 http://pfsv.io:80/7125938483/5158/50867.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi 4K" tvg-logo="" group-title="Canais | 4K" tvg-shift="-3",Digi 4K
-http://pfsv.io:80/7125938483/5158/130232.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV
 http://pfsv.io:80/7125938483/5158/116350.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV HD [ALTER2]" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV HD [ALTER2]
@@ -2189,11 +2203,11 @@ http://pfsv.io:80/7125938483/5158/122764.ts
 http://pfsv.io:80/7125938483/5158/412.ts
 #EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="Globo RBS Tv Caxias do Sul SD" tvg-logo="http://p6.vc/AUS" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Caxias do Sul SD
 http://pfsv.io:80/7125938483/5158/448.ts
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo RBS TV Criciuma FHD" tvg-logo="http://p6.vc/VEJ" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Criciuma FHD
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://p6.vc/VEJ" group-title="Canais | Globo" tvg-shift="-3",Globo NSC TV Criciuma FHD
 http://pfsv.io:80/7125938483/5158/43842.ts
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo RBS TV Criciuma HD" tvg-logo="http://p6.vc/VEC" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Criciuma HD
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://p6.vc/VEC" group-title="Canais | Globo" tvg-shift="-3",Globo NSC TV Criciuma HD
 http://pfsv.io:80/7125938483/5158/43828.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="Globo RBS TV Criciuma SD" tvg-logo="http://p6.vc/VGG" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Criciuma SD
+#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://p6.vc/VGG" group-title="Canais | Globo" tvg-shift="-3",Globo NSC TV Criciuma SD
 http://pfsv.io:80/7125938483/5158/121127.ts
 #EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="Globo RBS Tv Pelotas FHD" tvg-logo="http://p6.vc/VCP" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Pelotas FHD
 http://pfsv.io:80/7125938483/5158/379.ts
@@ -2313,9 +2327,9 @@ http://pfsv.io:80/7125938483/5158/109984.ts
 http://pfsv.io:80/7125938483/5158/109983.ts
 #EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="Globo TV EPTV Sul de Minas SD" tvg-logo="http://p6.vc/VFT" group-title="Canais | Globo" tvg-shift="-3",Globo TV EPTV Sul de Minas SD
 http://pfsv.io:80/7125938483/5158/109982.ts
-#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="Globo TV Fronteira Paulista Prudente FHD" tvg-logo="http://p6.vc/VGB" group-title="Canais | Globo" tvg-shift="-3",Globo TV Fronteira Paulista Prudente FHD
+#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="Globo TV Presidente Prudente SP FHD" tvg-logo="http://p6.vc/VGB" group-title="Canais | Globo" tvg-shift="-3",Globo TV Presidente Prudente SP FHD
 http://pfsv.io:80/7125938483/5158/121122.ts
-#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="Globo TV Fronteira Paulista Prudente HD" tvg-logo="http://p6.vc/VEU" group-title="Canais | Globo" tvg-shift="-3",Globo TV Fronteira Paulista Prudente HD
+#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="Globo TV Presidente Prudente SP HD" tvg-logo="http://p6.vc/VEU" group-title="Canais | Globo" tvg-shift="-3",Globo TV Presidente Prudente SP HD
 http://pfsv.io:80/7125938483/5158/56127.ts
 #EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="Globo TV Fronteira Paulista Prudente SD" tvg-logo="http://p6.vc/VET" group-title="Canais | Globo" tvg-shift="-3",Globo TV Fronteira Paulista Prudente SD
 http://pfsv.io:80/7125938483/5158/56126.ts
@@ -3323,8 +3337,6 @@ http://pfsv.io:80/7125938483/5158/131034.ts
 http://pfsv.io:80/7125938483/5158/131035.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio
 http://pfsv.io:80/7125938483/5158/131023.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio Plus
-http://pfsv.io:80/7125938483/5158/131024.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego
 http://pfsv.io:80/7125938483/5158/131025.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego Plus
@@ -3349,8 +3361,6 @@ http://pfsv.io:80/7125938483/5158/131041.ts
 http://pfsv.io:80/7125938483/5158/131042.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin
 http://pfsv.io:80/7125938483/5158/131043.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin Plus
-http://pfsv.io:80/7125938483/5158/131044.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS Sports Network USA FHD" tvg-logo="http://p6.vc/1" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] CBS Sports Network USA FHD
 http://pfsv.io:80/7125938483/5158/58178.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Box" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Box
