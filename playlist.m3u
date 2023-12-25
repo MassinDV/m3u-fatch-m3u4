@@ -787,9 +787,9 @@ http://pfsv.io:80/7125938483/5158/130173.ts
 http://pfsv.io:80/7125938483/5158/588.ts
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K" tvg-shift="-3",AXN [4K]
 http://pfsv.io:80/7125938483/5158/50863.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP [4K]" tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K" tvg-shift="-3",Band SP [4K]
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP [4K]" tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K" tvg-shift="-3",Band SP [4K]
 http://pfsv.io:80/7125938483/5158/580.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network [4K]" tvg-logo="http://p6.vc/bc" group-title="Canais | 4K" tvg-shift="-3",Cartoon Network [4K]
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="Cartoon Network [4K]" tvg-logo="http://p6.vc/bc" group-title="Canais | 4K" tvg-shift="-3",Cartoon Network [4K]
 http://pfsv.io:80/7125938483/5158/591.ts
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="http://p6.vc/VNG" group-title="Canais | 4K" tvg-shift="-3",CNN Brasil [4K]
 http://pfsv.io:80/7125938483/5158/50865.ts
@@ -821,15 +821,15 @@ http://pfsv.io:80/7125938483/5158/98125.ts
 http://pfsv.io:80/7125938483/5158/590.ts
 #EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic [4K]" tvg-logo="http://p6.vc/bf" group-title="Canais | 4K" tvg-shift="-3",National Geographic [4K]
 http://pfsv.io:80/7125938483/5158/594.ts
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Club [4K]" tvg-logo="http://p6.vc/AZJ" group-title="Canais | 4K" tvg-shift="-3",Premiere Club [4K]
+#EXTINF:-1 tvg-id="BR - Premiere Clubes HD" tvg-name="Premiere Club [4K]" tvg-logo="http://p6.vc/AZJ" group-title="Canais | 4K" tvg-shift="-3",Premiere Club [4K]
 http://pfsv.io:80/7125938483/5158/584.ts
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RecordTV SP [4K]" tvg-logo="http://p6.vc/AZI" group-title="Canais | 4K" tvg-shift="-3",RecordTV SP [4K]
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RecordTV SP [4K]" tvg-logo="http://p6.vc/AZI" group-title="Canais | 4K" tvg-shift="-3",RecordTV SP [4K]
 http://pfsv.io:80/7125938483/5158/583.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP [4K]" tvg-logo="http://p6.vc/AZL" group-title="Canais | 4K" tvg-shift="-3",SBT SP [4K]
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [4K]" tvg-logo="http://p6.vc/AZL" group-title="Canais | 4K" tvg-shift="-3",SBT SP [4K]
 http://pfsv.io:80/7125938483/5158/587.ts
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space [4K]" tvg-logo="http://p6.vc/bg" group-title="Canais | 4K" tvg-shift="-3",Space [4K]
 http://pfsv.io:80/7125938483/5158/596.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K" tvg-shift="-3",SporTV [4K]
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K" tvg-shift="-3",SporTV [4K]
 http://pfsv.io:80/7125938483/5158/589.ts
 #EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel [4K]" tvg-logo="http://p6.vc/eLn" group-title="Canais | 4K" tvg-shift="-3",Star Channel [4K]
 http://pfsv.io:80/7125938483/5158/5346.ts
@@ -2159,17 +2159,17 @@ http://pfsv.io:80/7125938483/5158/409.ts
 http://pfsv.io:80/7125938483/5158/43844.ts
 #EXTINF:-1 tvg-id="BR - InterTV Alto Literal HD" tvg-name="Globo Inter Tv Alto Litoral HD" tvg-logo="http://p6.vc/ATM" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Alto Litoral HD
 http://pfsv.io:80/7125938483/5158/407.ts
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo Inter Tv Alto Litoral SD" tvg-logo="http://p6.vc/AUO" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Alto Litoral SD
+#EXTINF:-1 tvg-id="BR - Inter TV Alto Litoral" tvg-name="Globo Inter Tv Alto Litoral SD" tvg-logo="http://p6.vc/AUO" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Alto Litoral SD
 http://pfsv.io:80/7125938483/5158/443.ts
 #EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Globo Inter TV Dos Vales FHD" tvg-logo="http://p6.vc/ASJ" group-title="Canais | Globo" tvg-shift="-3",Globo Inter TV Dos Vales FHD
 http://pfsv.io:80/7125938483/5158/373.ts
-#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Globo Inter Tv Dos Vales HD" tvg-logo="http://p6.vc/ATN" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Dos Vales HD
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Globo Inter Tv Dos Vales HD" tvg-logo="http://p6.vc/ATN" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Dos Vales HD
 http://pfsv.io:80/7125938483/5158/408.ts
 #EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="Globo Inter Tv Dos Vales SD" tvg-logo="http://p6.vc/AUP" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Dos Vales SD
 http://pfsv.io:80/7125938483/5158/444.ts
 #EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter Tv Grande Minas FHD" tvg-logo="http://p6.vc/VCN" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas FHD
 http://pfsv.io:80/7125938483/5158/374.ts
-#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="Globo Inter Tv Grande Minas SD" tvg-logo="http://p6.vc/AUQ" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas SD
+#EXTINF:-1 tvg-id="BR - InterTV Grande Minas" tvg-name="Globo Inter Tv Grande Minas SD" tvg-logo="http://p6.vc/AUQ" group-title="Canais | Globo" tvg-shift="-3",Globo Inter Tv Grande Minas SD
 http://pfsv.io:80/7125938483/5158/445.ts
 #EXTINF:-1 tvg-id="InterTVSerraPlusMar.br" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://p6.vc/ASK" group-title="Canais | Globo" tvg-shift="-3",Globo Inter TV Serra Mar FHD
 http://pfsv.io:80/7125938483/5158/375.ts
@@ -2193,7 +2193,7 @@ http://pfsv.io:80/7125938483/5158/376.ts
 http://pfsv.io:80/7125938483/5158/122763.ts
 #EXTINF:-1 tvg-id="BR - NSC TV Blumenau HD" tvg-name="Globo NSC Tv Blumenau HD" tvg-logo="http://p6.vc/ATQ" group-title="Canais | Globo" tvg-shift="-3",Globo NSC Tv Blumenau HD
 http://pfsv.io:80/7125938483/5158/411.ts
-#EXTINF:-1 tvg-id="NSCTVBlumenau.br" tvg-name="Globo NSC Tv Blumenau SD" tvg-logo="http://p6.vc/AUR" group-title="Canais | Globo" tvg-shift="-3",Globo NSC Tv Blumenau SD
+#EXTINF:-1 tvg-id="BR - NSC TV Blumenau" tvg-name="Globo NSC Tv Blumenau SD" tvg-logo="http://p6.vc/AUR" group-title="Canais | Globo" tvg-shift="-3",Globo NSC Tv Blumenau SD
 http://pfsv.io:80/7125938483/5158/447.ts
 #EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="Globo RBS Tv Caxias do Sul FHD" tvg-logo="http://p6.vc/ASM" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Caxias do Sul FHD
 http://pfsv.io:80/7125938483/5158/377.ts
@@ -2213,13 +2213,13 @@ http://pfsv.io:80/7125938483/5158/121127.ts
 http://pfsv.io:80/7125938483/5158/379.ts
 #EXTINF:-1 tvg-id="BR - RBS TV Porto Alegre HD" tvg-name="Globo RBS Tv Pelotas HD" tvg-logo="http://p6.vc/ATS" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Pelotas HD
 http://pfsv.io:80/7125938483/5158/414.ts
-#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="Globo RBS Tv Pelotas SD" tvg-logo="http://p6.vc/VDA" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Pelotas SD
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Globo RBS Tv Pelotas SD" tvg-logo="http://p6.vc/VDA" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Pelotas SD
 http://pfsv.io:80/7125938483/5158/450.ts
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo RBS Tv Porto Alegre HD" tvg-logo="http://p6.vc/ASX" group-title="Canais | Globo" tvg-shift="-3",Globo RBS Tv Porto Alegre HD
 http://pfsv.io:80/7125938483/5158/391.ts
-#EXTINF:-1 tvg-id="RBS TV Santa Maria" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://p6.vc/VEQ" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Santa Maria FHD
+#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://p6.vc/VEQ" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Santa Maria FHD
 http://pfsv.io:80/7125938483/5158/43855.ts
-#EXTINF:-1 tvg-id="RBS TV Santa Maria" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://p6.vc/VEH" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Santa Maria HD
+#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://p6.vc/VEH" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Santa Maria HD
 http://pfsv.io:80/7125938483/5158/43839.ts
 #EXTINF:-1 tvg-id="RBS TV Santa Maria" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://p6.vc/VEI" group-title="Canais | Globo" tvg-shift="-3",Globo RBS TV Santa Maria SD
 http://pfsv.io:80/7125938483/5158/43840.ts
@@ -2261,7 +2261,7 @@ http://pfsv.io:80/7125938483/5158/122765.ts
 http://pfsv.io:80/7125938483/5158/395.ts
 #EXTINF:-1 tvg-id="BR - TV Anhanguera Rio Verde" tvg-name="Globo TV Anhanguera Rio Verde HD" tvg-logo="http://p6.vc/VFC" group-title="Canais | Globo" tvg-shift="-3",Globo TV Anhanguera Rio Verde HD
 http://pfsv.io:80/7125938483/5158/56139.ts
-#EXTINF:-1 tvg-id="TVAnhangueraGoiania.br" tvg-name="Globo TV Anhanguera SD" tvg-logo="http://p6.vc/AUF" group-title="Canais | Globo" tvg-shift="-3",Globo TV Anhanguera SD
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="Globo TV Anhanguera SD" tvg-logo="http://p6.vc/AUF" group-title="Canais | Globo" tvg-shift="-3",Globo TV Anhanguera SD
 http://pfsv.io:80/7125938483/5158/430.ts
 #EXTINF:-1 tvg-id="tvasabranca" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://p6.vc/VEP" group-title="Canais | Globo" tvg-shift="-3",Globo TV Asa Branca FHD
 http://pfsv.io:80/7125938483/5158/43853.ts
@@ -2305,7 +2305,7 @@ http://pfsv.io:80/7125938483/5158/43826.ts
 http://pfsv.io:80/7125938483/5158/43827.ts
 #EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="Globo Tv Clube Teresina FHD" tvg-logo="http://p6.vc/ARV" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Clube Teresina FHD
 http://pfsv.io:80/7125938483/5158/357.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Tv Clube Teresina HD" tvg-logo="http://p6.vc/ATG" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Clube Teresina HD
+#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="Globo Tv Clube Teresina HD" tvg-logo="http://p6.vc/ATG" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Clube Teresina HD
 http://pfsv.io:80/7125938483/5158/400.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Tv Clube Teresina SD" tvg-logo="http://p6.vc/VCY" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Clube Teresina SD
 http://pfsv.io:80/7125938483/5158/437.ts
@@ -2351,7 +2351,7 @@ http://pfsv.io:80/7125938483/5158/43825.ts
 http://pfsv.io:80/7125938483/5158/358.ts
 #EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="Globo Tv Gazeta Vitoria FHD[H265]" tvg-logo="http://p6.vc/VGS" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Gazeta Vitoria FHD[H265]
 http://pfsv.io:80/7125938483/5158/122767.ts
-#EXTINF:-1 tvg-id="TV Vitória HD" tvg-name="Globo Tv Gazeta Vitoria HD" tvg-logo="http://p6.vc/ATH" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Gazeta Vitoria HD
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Globo Tv Gazeta Vitoria HD" tvg-logo="http://p6.vc/ATH" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Gazeta Vitoria HD
 http://pfsv.io:80/7125938483/5158/401.ts
 #EXTINF:-1 tvg-id="TV Vitória HD" tvg-name="Globo Tv Gazeta Vitoria SD" tvg-logo="http://p6.vc/AUJ" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Gazeta Vitoria SD
 http://pfsv.io:80/7125938483/5158/438.ts
@@ -2421,11 +2421,11 @@ http://pfsv.io:80/7125938483/5158/122776.ts
 http://pfsv.io:80/7125938483/5158/413.ts
 #EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="Globo TV NSC Joinville SD" tvg-logo="http://p6.vc/AUT" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Joinville SD
 http://pfsv.io:80/7125938483/5158/449.ts
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo TV NSC Tv Florianopolis FHD" tvg-logo="http://p6.vc/ASB" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Tv Florianopolis FHD
+#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="Globo TV NSC Tv Florianopolis FHD" tvg-logo="http://p6.vc/ASB" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Tv Florianopolis FHD
 http://pfsv.io:80/7125938483/5158/364.ts
 #EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo TV NSC Tv Florianopolis HD" tvg-logo="http://p6.vc/ASW" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Tv Florianopolis HD
 http://pfsv.io:80/7125938483/5158/390.ts
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo TV NSC Tv Florianopolis SD" tvg-logo="http://p6.vc/AUA" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Tv Florianopolis SD
+#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="Globo TV NSC Tv Florianopolis SD" tvg-logo="http://p6.vc/AUA" group-title="Canais | Globo" tvg-shift="-3",Globo TV NSC Tv Florianopolis SD
 http://pfsv.io:80/7125938483/5158/425.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Passo Fundo HD" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo" tvg-shift="-3",Globo TV Passo Fundo HD
 http://pfsv.io:80/7125938483/5158/132950.ts
@@ -2471,7 +2471,7 @@ http://pfsv.io:80/7125938483/5158/356.ts
 http://pfsv.io:80/7125938483/5158/122772.ts
 #EXTINF:-1 tvg-id="RPCTVFozdoIguacu.br" tvg-name="Globo TV RPC Foz do Iguacu HD" tvg-logo="http://p6.vc/ATF" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Foz do Iguacu HD
 http://pfsv.io:80/7125938483/5158/399.ts
-#EXTINF:-1 tvg-id="RPCTVFozdoIguacu.br" tvg-name="Globo TV RPC Foz do Iguacu SD" tvg-logo="http://p6.vc/AUI" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Foz do Iguacu SD
+#EXTINF:-1 tvg-id="BR - RPC Foz do Iguaçu HD" tvg-name="Globo TV RPC Foz do Iguacu SD" tvg-logo="http://p6.vc/AUI" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Foz do Iguacu SD
 http://pfsv.io:80/7125938483/5158/436.ts
 #EXTINF:-1 tvg-id="BR - RPC Maringá" tvg-name="Globo TV RPC Maringa FHD" tvg-logo="http://p6.vc/ARR" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Maringa FHD
 http://pfsv.io:80/7125938483/5158/351.ts
