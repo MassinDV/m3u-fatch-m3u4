@@ -2365,8 +2365,6 @@ http://pfsv.io:80/7125938483/5158/122779.ts
 http://pfsv.io:80/7125938483/5158/59976.ts
 #EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://p6.vc/VFX" group-title="Canais | Globo" tvg-shift="-3",Globo TV Liberal Belem FHD
 http://pfsv.io:80/7125938483/5158/119987.ts
-#EXTINF:-1 tvg-id="BR - TV Liberal HD" tvg-name="Globo TV Liberal Belem FHD[H265]" tvg-logo="http://p6.vc/VHD" group-title="Canais | Globo" tvg-shift="-3",Globo TV Liberal Belem FHD[H265]
-http://pfsv.io:80/7125938483/5158/122778.ts
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://p6.vc/VDX" group-title="Canais | Globo" tvg-shift="-3",Globo TV Liberal Belem HD
 http://pfsv.io:80/7125938483/5158/43818.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Tv Liberal Belem SD" tvg-logo="http://p6.vc/AUX" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Liberal Belem SD
@@ -2463,8 +2461,6 @@ http://pfsv.io:80/7125938483/5158/399.ts
 http://pfsv.io:80/7125938483/5158/436.ts
 #EXTINF:-1 tvg-id="BR - RPC Maringá" tvg-name="Globo TV RPC Maringa FHD" tvg-logo="http://p6.vc/ARR" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Maringa FHD
 http://pfsv.io:80/7125938483/5158/351.ts
-#EXTINF:-1 tvg-id="BR - RPC Maringá" tvg-name="Globo TV RPC Maringa FHD[H265]" tvg-logo="http://p6.vc/VHG" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Maringa FHD[H265]
-http://pfsv.io:80/7125938483/5158/122781.ts
 #EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="Globo TV RPC Maringa HD" tvg-logo="http://p6.vc/ASR" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Maringa HD
 http://pfsv.io:80/7125938483/5158/384.ts
 #EXTINF:-1 tvg-id="BR - RPC Maringá HD" tvg-name="Globo TV RPC Maringa SD" tvg-logo="http://p6.vc/VCT" group-title="Canais | Globo" tvg-shift="-3",Globo TV RPC Maringa SD
