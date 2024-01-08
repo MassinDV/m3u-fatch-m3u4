@@ -6,7 +6,7 @@ name: Fetch data
 on:
   schedule:
     # Runs "at hour 7 past every day" (see https://crontab.guru)
-    - cron: '00 7 * * *'
+    - cron: '30 13 * * *'
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
