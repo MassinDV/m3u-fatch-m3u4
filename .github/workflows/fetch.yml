@@ -5,7 +5,7 @@ name: Fetch data
 # Controls when the workflow will run
 on:
   schedule:
-    # Runs "at hour 7 past every day" (see https://crontab.guru)
+    # Runs "at hour x past every day" (see https://crontab.guru)
     - cron: '30 13 * * *'
     
   # Allows you to run this workflow manually from the Actions tab
