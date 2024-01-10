@@ -3509,6 +3509,8 @@ http://pfsv.io:80/7125938483/5158/186256.ts
 http://pfsv.io:80/7125938483/5158/186257.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 1 HD" tvg-logo="http://p6.vc/AXMD" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 1 HD
 http://pfsv.io:80/7125938483/5158/186258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEBATE BBB 24" tvg-logo="http://p6.vc/AXMJ" group-title="Canais | BBB 24" tvg-shift="-3",DEBATE BBB 24
+http://pfsv.io:80/7125938483/5158/186276.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 24" tvg-logo="http://p6.vc/AXJH" group-title="Canais | BBB 24" tvg-shift="-3",BBB 24
 http://pfsv.io:80/7125938483/5158/186194.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 24 FHD[Alter]" tvg-logo="http://p6.vc/AXKR" group-title="Canais | BBB 24" tvg-shift="-3",Casa de Vidro BBB 24 FHD[Alter]
