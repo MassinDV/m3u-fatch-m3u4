@@ -175,6 +175,12 @@ http://pfsv.io:80/7125938483/5158/183005.ts
 http://pfsv.io:80/7125938483/5158/183006.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star + 4 SD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star + 4 SD
 http://pfsv.io:80/7125938483/5158/183007.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [SD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [SD]
+http://pfsv.io:80/7125938483/5158/187312.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [HD]
+http://pfsv.io:80/7125938483/5158/187313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [FHD]
+http://pfsv.io:80/7125938483/5158/187314.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao SD
 http://pfsv.io:80/7125938483/5158/55346.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHD
