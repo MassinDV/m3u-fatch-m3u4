@@ -65,9 +65,9 @@ http://pfsv.io:80/7125938483/5158/33375.ts
 http://pfsv.io:80/7125938483/5158/491.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga Futsal" tvg-logo="http://p6.vc/VOG" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Liga Futsal
 http://pfsv.io:80/7125938483/5158/49108.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao HD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV HD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",CazeTV HD
 http://pfsv.io:80/7125938483/5158/134082.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",CazeTV SD
 http://pfsv.io:80/7125938483/5158/134083.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LNF 01" tvg-logo="http://p6.vc/VPO" group-title="Canais | Jogos & Eventos" tvg-shift="-3",LNF 01
 http://pfsv.io:80/7125938483/5158/116356.ts
@@ -181,7 +181,7 @@ http://pfsv.io:80/7125938483/5158/187312.ts
 http://pfsv.io:80/7125938483/5158/187313.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [FHD]
 http://pfsv.io:80/7125938483/5158/187314.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV FHD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",CazeTV FHD
 http://pfsv.io:80/7125938483/5158/55346.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHD
 http://pfsv.io:80/7125938483/5158/132265.ts
