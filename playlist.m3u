@@ -955,8 +955,6 @@ http://pfsv.io:80/7125938483/5158/112005.ts
 http://pfsv.io:80/7125938483/5158/108979.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FLA TV" tvg-logo="http://p6.vc/VTN" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",FLA TV
 http://pfsv.io:80/7125938483/5158/33404.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Furacao Play TV [ALTER]" tvg-logo="http://p6.vc/TYT" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Furacao Play TV [ALTER]
-http://pfsv.io:80/7125938483/5158/100023.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranaense 01" tvg-logo="http://p6.vc/VAB" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paranaense 01
 http://pfsv.io:80/7125938483/5158/108098.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranaense 01 [ALTER]" tvg-logo="http://p6.vc/UZO" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paranaense 01 [ALTER]
@@ -1785,54 +1783,46 @@ http://pfsv.io:80/7125938483/5158/186235.ts
 http://pfsv.io:80/7125938483/5158/186207.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB HD MOSAICO" tvg-logo="http://p6.vc/AXKQ" group-title="Canais | BBB 24" tvg-shift="-3",BBB HD MOSAICO
 http://pfsv.io:80/7125938483/5158/186219.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 24 Mosaico SD" tvg-logo="http://p6.vc/AXLE" group-title="Canais | BBB 24" tvg-shift="-3",BBB 24 Mosaico SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico SD" tvg-logo="http://p6.vc/AXLE" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico SD
 http://pfsv.io:80/7125938483/5158/186233.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 23 SD" tvg-logo="http://p6.vc/AXLF" group-title="Canais | BBB 24" tvg-shift="-3",Casa de Vidro BBB 23 SD
-http://pfsv.io:80/7125938483/5158/186234.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 24 HD" tvg-logo="http://p6.vc/AXLR" group-title="Canais | BBB 24" tvg-shift="-3",Casa de Vidro BBB 24 HD
-http://pfsv.io:80/7125938483/5158/186246.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEBATE BBB 24" tvg-logo="http://p6.vc/AXMJ" group-title="Canais | BBB 24" tvg-shift="-3",DEBATE BBB 24
-http://pfsv.io:80/7125938483/5158/186276.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 24" tvg-logo="http://p6.vc/AXJH" group-title="Canais | BBB 24" tvg-shift="-3",BBB 24
 http://pfsv.io:80/7125938483/5158/186194.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 1 FHD[Alter]" tvg-logo="http://p6.vc/AXLD" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 1 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 1 FHD" tvg-logo="http://p6.vc/AXLD" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 1 FHD
 http://pfsv.io:80/7125938483/5158/186232.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1 FHD[HDR]" tvg-logo="http://p6.vc/AXMF" group-title="Canais | BBB 24" tvg-shift="-3",BBB CAM 1 FHD[HDR]
 http://pfsv.io:80/7125938483/5158/186260.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1 [H265]" tvg-logo="http://p6.vc/AXMH" group-title="Canais | BBB 24" tvg-shift="-3",BBB CAM 1 [H265]
 http://pfsv.io:80/7125938483/5158/186262.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 10 FHD[Alter]" tvg-logo="http://p6.vc/AXKU" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 10 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 10 FHD" tvg-logo="http://p6.vc/AXKU" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 10 FHD
 http://pfsv.io:80/7125938483/5158/186223.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 11 FHD[Alter]" tvg-logo="http://p6.vc/AXKT" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 11 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 11 FHD" tvg-logo="http://p6.vc/AXKT" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 11 FHD
 http://pfsv.io:80/7125938483/5158/186222.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 2 FHD[Alter]" tvg-logo="http://p6.vc/AXLC" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 2 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 2 FHD" tvg-logo="http://p6.vc/AXLC" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 2 FHD
 http://pfsv.io:80/7125938483/5158/186231.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2 FHD[HDR]" tvg-logo="http://p6.vc/AXMG" group-title="Canais | BBB 24" tvg-shift="-3",BBB CAM 2 FHD[HDR]
 http://pfsv.io:80/7125938483/5158/186261.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2 [H265]" tvg-logo="http://p6.vc/AXMI" group-title="Canais | BBB 24" tvg-shift="-3",BBB CAM 2 [H265]
 http://pfsv.io:80/7125938483/5158/186263.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 3 FHD[Alter]" tvg-logo="http://p6.vc/AXLB" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 3 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 3 FHD" tvg-logo="http://p6.vc/AXLB" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 3 FHD
 http://pfsv.io:80/7125938483/5158/186230.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 4 FHD[Alter]" tvg-logo="http://p6.vc/AXLA" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 4 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 4 FHD" tvg-logo="http://p6.vc/AXLA" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 4 FHD
 http://pfsv.io:80/7125938483/5158/186229.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 5 FHD[Alter]" tvg-logo="http://p6.vc/AXKZ" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 5 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 5 FHD" tvg-logo="http://p6.vc/AXKZ" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 5 FHD
 http://pfsv.io:80/7125938483/5158/186228.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 6 FHD[Alter]" tvg-logo="http://p6.vc/AXKY" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 6 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 6 FHD" tvg-logo="http://p6.vc/AXKY" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 6 FHD
 http://pfsv.io:80/7125938483/5158/186227.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 7 FHD[Alter]" tvg-logo="http://p6.vc/AXKX" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 7 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 7 FHD" tvg-logo="http://p6.vc/AXKX" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 7 FHD
 http://pfsv.io:80/7125938483/5158/186226.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 8 FHD[Alter]" tvg-logo="http://p6.vc/AXKW" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 8 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 8 FHD" tvg-logo="http://p6.vc/AXKW" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 8 FHD
 http://pfsv.io:80/7125938483/5158/186225.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 9 FHD[Alter]" tvg-logo="http://p6.vc/AXKV" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 9 FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cam 9 FHD" tvg-logo="http://p6.vc/AXKV" group-title="Canais | BBB 24" tvg-shift="-3",BBB Cam 9 FHD
 http://pfsv.io:80/7125938483/5158/186224.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD[Alter]" tvg-logo="http://p6.vc/AXKS" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico FHD[Alter]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD" tvg-logo="http://p6.vc/AXKS" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico FHD
 http://pfsv.io:80/7125938483/5158/186221.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD[HDR]" tvg-logo="http://p6.vc/AXME" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico FHD[HDR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD [HDR]" tvg-logo="http://p6.vc/AXME" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico FHD [HDR]
 http://pfsv.io:80/7125938483/5158/186259.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico [H265]" tvg-logo="http://p6.vc/AXMJ" group-title="Canais | BBB 24" tvg-shift="-3",BBB Mosaico [H265]
 http://pfsv.io:80/7125938483/5158/186264.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 24 FHD[Alter]" tvg-logo="http://p6.vc/AXKR" group-title="Canais | BBB 24" tvg-shift="-3",Casa de Vidro BBB 24 FHD[Alter]
-http://pfsv.io:80/7125938483/5158/186220.ts
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music" tvg-shift="-3",BIS  FHD[H265]
 http://pfsv.io:80/7125938483/5158/30177.ts
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music" tvg-shift="-3",BIS FHD
