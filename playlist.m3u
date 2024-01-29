@@ -17,12 +17,6 @@ http://pfsv.io:80/7125938483/5158/116353.ts
 http://pfsv.io:80/7125938483/5158/116352.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Do Volei 03" tvg-logo="http://p6.vc/VMC" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal Do Volei 03
 http://pfsv.io:80/7125938483/5158/116351.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [FHD]
-http://pfsv.io:80/7125938483/5158/187314.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [HD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [HD]
-http://pfsv.io:80/7125938483/5158/187313.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT [SD]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Canal GOAT [SD]
-http://pfsv.io:80/7125938483/5158/187312.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV HD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",CazeTV HD
 http://pfsv.io:80/7125938483/5158/134082.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",CazeTV SD
@@ -1019,6 +1013,20 @@ http://pfsv.io:80/7125938483/5158/133539.ts
 http://pfsv.io:80/7125938483/5158/133538.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Coxa HD (Coritiba FC)" tvg-logo="http://p6.vc/VCF" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",TV Coxa HD (Coritiba FC)
 http://pfsv.io:80/7125938483/5158/66718.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat 2 SD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat 2 SD
+http://pfsv.io:80/7125938483/5158/190491.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat 2 HD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat 2 HD
+http://pfsv.io:80/7125938483/5158/190492.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat 2 FHD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat 2 FHD
+http://pfsv.io:80/7125938483/5158/190493.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat SD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat SD
+http://pfsv.io:80/7125938483/5158/190494.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat HD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat HD
+http://pfsv.io:80/7125938483/5158/190495.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Goat FHD" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Canal Goat FHD
+http://pfsv.io:80/7125938483/5158/190496.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goat TV [ALTER]" tvg-logo="https://cdn.salla.sa/mAGnl/tQQktRNSMISjhadD6ZLNkXgkAb7ugsURzANsNGCy.png" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Goat TV [ALTER]
+http://pfsv.io:80/7125938483/5158/190497.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV FHD [ALTER2]" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV FHD [ALTER2]
 http://pfsv.io:80/7125938483/5158/132250.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brasileirao Serie C 1 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Brasileirao Serie C 1 FHD [ALTER2]
